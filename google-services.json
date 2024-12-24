@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1650942701",
+    "project_id": "tag2price",
+    "storage_bucket": "tag2price.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1650942701:android:cd64d4aff610d1473f62e4",
+        "android_client_info": {
+          "package_name": "com.tag2price.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4iXJutHxvYlevYBVfqYKGkYRirnwdq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
